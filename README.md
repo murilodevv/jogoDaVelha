@@ -1,7 +1,11 @@
 # Jogo da Velha
 
-<br>
-![velha](https://user-images.githubusercontent.com/66878007/156819591-5596f8d2-8379-421e-b42c-725cbf3aca1e.gif)
+
+![velha](https://user-images.githubusercontent.com/66878007/156819693-4e634267-b142-4dd7-aa2f-3a4f71b359e0.gif)
+
+
 <br>
 
-HTML, CSS e Javascript.
+<p>✔️ HTML</p>
+<p>✔️ CSS</p>
+<p>✔️ Javascript</p>
